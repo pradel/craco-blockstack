@@ -1,6 +1,6 @@
 {
   "name": "craco-blockstack",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A craco plugin to use Blockstack with create-react-app",
   "main": "index.js",
   "repository": "https://github.com/pradel/craco-blockstack.git",
