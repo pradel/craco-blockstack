@@ -3,7 +3,7 @@ module.exports = {
    * Config to allow Blockstack to read the manifest.json file
    * when developing locally
    */
-  devServer: devServerConfig => {
+  overrideDevServerConfig: devServerConfig => {
     if (!devServerConfig.headers) {
       devServerConfig.headers = {};
     }
